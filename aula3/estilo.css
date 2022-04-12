@@ -1,0 +1,35 @@
+h1 {
+    color:black;
+    background-color: greenyellow;
+}
+
+h2 {color: yellowgreen;
+    background-color: black;
+
+}
+
+nav {background-color: greenyellow;
+    padding: 10px;
+
+}
+
+#dadosPessoais {color:black;
+    background-color: greenyellow;
+    font-style: italic;
+    font-size: larger;
+    font: bold;
+}
+
+.titulo {
+    color:black;
+    font-size: large;
+    font-family:Arial, Helvetica, sans-serif
+    
+    
+}
+
+@media (max-width: 414px){
+    #dadosPessoais{
+        background-color: rgb(255, 27, 217);
+    }
+}
